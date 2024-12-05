@@ -35,7 +35,7 @@ public class RandomTen {
         }
 
         // Print all the jokes fetched (proof that the fifth joke is fetched in the first output)
-        System.out.println("\nAll Jokes:");
+        System.out.println("\nTen jokes fetched (proof that the fifth joke is fetched in the first output)");
         for (int i = 0; i < jokes.size(); i++) {
             JsonObject joke = jokes.get(i).getAsJsonObject();
             String setup = joke.get("setup").getAsString();
