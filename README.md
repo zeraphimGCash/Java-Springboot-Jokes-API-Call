@@ -4,4 +4,8 @@
 
 ## Jokes API - Random Ten Jokes
 
-![TenJokesOutput](Assets/TenJokesOutputProof.png)
+![Ten Jokes Output](Assets/TenJokesOutputProof.png)
+
+## SuperHero API - Two Endpoints
+
+![Super Hero API Output](Assets/SuperHeroAPICallsOutput.png)
