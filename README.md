@@ -4,4 +4,4 @@
 
 ## Jokes API - Random Ten Jokes
 
-!(TenJokesOutput)[Assets/TenJokesOutputProof.png]
+![TenJokesOutput](Assets/TenJokesOutputProof.png)
